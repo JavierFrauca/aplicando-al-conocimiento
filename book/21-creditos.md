@@ -25,6 +25,6 @@ Todo lo que cuenta este libro se destiló mientras el RAG de un despacho laboral
 
 ## Licencia
 
-La obra se distribuye bajo licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**. Ver [LICENSE.md](../LICENSE.md).
+La obra se distribuye bajo licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**. Ver [LICENSE.md](https://github.com/JavierFrauca/aplicando-al-conocimiento/blob/main/LICENSE.md).
 
 Para citarla: *Frauca, J., & ZCode (GLM, Z.ai), 2026. Aplicando el Conocimiento — Arquitectura de Respuesta para Sistemas RAG.*
