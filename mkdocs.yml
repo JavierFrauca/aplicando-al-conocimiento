@@ -1,0 +1,78 @@
+site_name: Aplicando el Conocimiento
+site_description: >-
+  Arquitectura de Respuesta para Sistemas RAG — El contexto ya está ensamblado.
+  Los patrones para usar el conocimiento recuperado: RAG directo, iterativo,
+  autocorrectivo, agéntico y multi-agente; el precio de pensar, la decisión,
+  la redacción y la evaluación de la respuesta.
+site_author: Javier Frauca & ZCode
+repo_url: https://github.com/JavierFrauca/aplicando-al-conocimiento
+repo_name: JavierFrauca/aplicando-al-conocimiento
+edit_uri: ""
+
+docs_dir: book
+copyright: CC BY-NC-SA 4.0 — Javier Frauca & ZCode
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo claro
+    - scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo oscuro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.instant
+    - content.code.copy
+    - content.tabs.link
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight
+
+nav:
+  - Inicio: index.md
+  - Prólogo: 00-prologo.md
+  - "I · La respuesta":
+      - "1 · El momento de la verdad": 01-momento-de-la-verdad.md
+      - "2 · El espectro de la respuesta": 02-espectro-de-la-respuesta.md
+      - "3 · El contrato de respuesta": 03-contrato-de-respuesta.md
+  - "II · Los patrones":
+      - "4 · Una pasada: el RAG directo": 04-rag-directo.md
+      - "5 · Recuperar de nuevo: iterativo y multi-hop": 05-iterativo-multihop.md
+      - "6 · La réplica interna: autocorregirse": 06-replica-interna.md
+      - "7 · El agente que investiga": 07-agente-que-investiga.md
+      - "8 · Varios agentes, un despacho": 08-varios-agentes.md
+      - "9 · Cuando la relación importa: GraphRAG": 09-graphrag.md
+  - "III · La decisión":
+      - "10 · El precio de pensar": 10-precio-de-pensar.md
+      - "11 · La audiencia decide, el alcance decide": 11-audiencia-y-alcance.md
+      - "12 · El router: que el sistema elija": 12-el-router.md
+  - "IV · La redacción y la vara":
+      - "13 · Cómo redacta el modelo": 13-como-redacta-el-modelo.md
+      - "14 · Fidelidad: la respuesta no miente": 14-fidelidad.md
+      - "15 · El juez de la respuesta": 15-juez-de-la-respuesta.md
+  - "V · El círculo":
+      - "16 · Cada patrón en producción": 16-cada-patron-en-produccion.md
+      - "17 · La cuarta corriente del retorno": 17-cuarta-corriente.md
+  - Epílogo: 18-epilogo.md
+  - Apéndices A-F: 19-apendices.md
+  - Glosario (Apéndice G): 20-glosario.md
+  - Créditos: 21-creditos.md
