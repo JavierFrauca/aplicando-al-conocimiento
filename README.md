@@ -4,7 +4,7 @@
 
 > *El corpus está construido y la cosecha, guardada. Ahora toca responder con ella — y hay muchas maneras de responder.*
 
-Tercera entrega de la serie iniciada con [*El Origen del Conocimiento*](https://javierfrauca.github.io/el-origen-del-conocimiento/) (léase online en [javierfrauca.github.io/el-origen-del-conocimiento](https://javierfrauca.github.io/el-origen-del-conocimiento/)) y continuada con *Accediendo al Conocimiento*.
+Tercera entrega de la serie iniciada con [*El Origen del Conocimiento*](https://javierfrauca.github.io/el-origen-del-conocimiento/) (léase online en [javierfrauca.github.io/el-origen-del-conocimiento](https://javierfrauca.github.io/el-origen-del-conocimiento/)) y continuada con [*Accediendo al Conocimiento*](https://javierfrauca.github.io/accediendo-al-conocimiento/).
 
 ## La tesis
 
@@ -19,7 +19,7 @@ Como en las entregas anteriores: **sin código** — método, criterio y plantil
 
 ## Estado
 
-✅ **Edición completa (pendiente de revisión)** — prólogo, 17 capítulos, epílogo, apéndices A-F y glosario redactados (07-09-2026); ~52.000 palabras. Repositorio privado hasta el lanzamiento.
+✅ **Edición completa (pendiente de revisión)** — prólogo, 17 capítulos, epílogo, apéndices A-F y glosario redactados (07-09-2026); ~52.000 palabras. Léase online en [javierfrauca.github.io/aplicando-al-conocimiento](https://javierfrauca.github.io/aplicando-al-conocimiento/).
 
 ## Licencia
 
