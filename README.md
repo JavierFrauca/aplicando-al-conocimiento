@@ -1,5 +1,7 @@
 # Aplicando el Conocimiento
 
+![Portada](book/portada.png)
+
 **Arquitectura de Respuesta para Sistemas RAG — El contexto ya está ensamblado**
 
 > *El corpus está construido y la cosecha, guardada. Ahora toca responder con ella — y hay muchas maneras de responder.*
