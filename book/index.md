@@ -7,6 +7,8 @@ description: Arquitectura de Respuesta para Sistemas RAG — El contexto ya est�
 
 ### Arquitectura de Respuesta para Sistemas RAG — El contexto ya está ensamblado
 
+![Portada](portada.png){ width="420" }
+
 ---
 
 Un corpus excelente con un acceso mediocre es una biblioteca cerrada con llave. Un acceso excelente con una generación mediocre es una biblioteca abierta de la que sale mentira con buena letra.
