@@ -33,7 +33,7 @@ Aquí no hay frameworks de moda que copiar. Hay **método, criterio y plantillas
 
 ## Estado
 
-✅ **Edición completa (pendiente de revisión)** — prólogo, 17 capítulos, epílogo, apéndices A-F y glosario redactados; ~52.000 palabras. Repositorio privado hasta el lanzamiento.
+✅ **Edición completa (pendiente de revisión)** — prólogo, 17 capítulos, epílogo, apéndices A-F y glosario redactados; ~52.000 palabras.
 
 ## Licencia y citación
 
